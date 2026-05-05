@@ -80,14 +80,20 @@ const vinicius = {
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vynimaciell&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Vynimaciell&theme=chartreuse-dark&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41&dates=c9d1d9&currStreakNum=00ff41&sideNums=00ff41" />
+  <picture>
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vynimaciell&show_icons=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41" />
+  </picture>
+  <picture>
+    <img height="160" src="https://streak-stats.demolab.com/?user=Vynimaciell&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41&dates=c9d1d9&currStreakNum=00ff41&sideNums=00ff41" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vynimaciell&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
+  <picture>
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vynimaciell&layout=compact&bg_color=000000&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
+  </picture>
 </div>
 
 ---
@@ -98,8 +104,8 @@ const vinicius = {
   <a href="https://www.linkedin.com/in/vinicius-maciel-56997a3b7">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
   </a>
-  <a href="mailto:vinicinsad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00ff41" />
+  <a href="https://mail.google.com/mail/?view=cm&to=vinicinsad@gmail.com">
+    <img src="https://img.shields.io/badge/vinicinsad@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=00ff41" />
   </a>
   <a href="https://github.com/Vynimaciell">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff41" />
