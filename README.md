@@ -59,33 +59,6 @@ const vinicius = {
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00ff41" />
 </p>
 
----
-
-<h3 align="center">🚀 Featured Projects</h3>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>🖥️ Projeto</th>
-      <th>📝 Descrição</th>
-      <th>🛠️ Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Beach Kiosk System</b></td>
-      <td>Sistema full-stack de aluguel para quiosques de praia</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>MySQL</code></td>
-    </tr>
-    <tr>
-      <td><b>Projeto Spotify</b></td>
-      <td>Website com vídeo fullscreen de background</td>
-      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
-    </tr>
-  </tbody>
-</table>
-
----
 
 <h3 align="center">📊 GitHub Stats</h3>
 
